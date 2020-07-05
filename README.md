@@ -1,4 +1,4 @@
-<h1 align="center">lask-application-products</h1>
+<h1 align="center">flask-application-products</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="MIT" target="_blank">
