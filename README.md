@@ -15,6 +15,10 @@
 * Website: https://www.gitshowcase.com/leandro-matos
 * Github: [@leandro-matos](https://github.com/leandro-matos)
 
+## ** project structure **
+
+![](templates/structure.png)
+
 Copyright © 2020 [leandro-matos](https://github.com/leandro-matos).<br />
 This project is [MIT](MIT) licensed.
 
