@@ -1,9 +1,9 @@
-﻿alembic==1.4.2
+alembic==1.4.2
 bcrypt==3.1.7
 cffi==1.14.0
 click==7.1.2
 dominate==2.5.1
-Flask==1.1.2
+Flask==2.3.2
 Flask-Admin==1.5.6
 Flask-Bootstrap==3.3.7.1
 Flask-Login==0.5.0
